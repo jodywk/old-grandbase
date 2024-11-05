@@ -1,0 +1,14 @@
+{
+  "HOST": "localhost",
+  "USER": "postgres",
+  "PASSWORD": "12345",
+  "PORT": 5432,
+  "DB": "grand_base",
+  "dialect": "postgres",
+  "pool": {
+    "max": 5,
+    "min": 0,
+    "acquire": 30000,
+    "idle": 10000
+  }
+}

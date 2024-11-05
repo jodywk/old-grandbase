@@ -1,0 +1,8 @@
+{
+  "ethereum": "0x743494393d802ac25c39d7882b10d7fd08293686",
+  "base": "0x2aF864fb54b55900Cd58d19c7102d9e4FA8D84a3",
+
+  "sepolia": "0x2afc08b10628cD4d51523d5A50E63311C9cbB7B7",
+  "base-sepolia": "0x2afc08b10628cD4d51523d5A50E63311C9cbB7B7",
+  "bsc-testnet": "0x06eef5fBBa6234D78Dc5EFdD4A172aC9DAa96d26"
+}

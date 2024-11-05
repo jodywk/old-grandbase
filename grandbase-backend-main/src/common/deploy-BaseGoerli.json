@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Grand",
+    "address": "0x129388f0645276623f17f867a13Ec10cb348D2F4"
+  },
+  {
+    "name": "xGrand",
+    "address": "0xD8875030111b3A9Ab5EEA42b0256d12D5F58576d"
+  },
+  {
+    "name": "MasterGrand",
+    "address": "0x3248c7d25E7CF43D2061d74705082155eD7598E9"
+  },
+  {
+    "name": "GrandOracle",
+    "address": "0xaCEd6e747495663Cb15EB091D2d2BDbC5851fed9"
+  },
+  {
+    "name": "gAMZN",
+    "address": "0xedd88D441474388dc636194681510AA40e766aA9"
+  },
+  {
+    "name": "gAAPL",
+    "address": "0x5F928e1307b770F4FF3Acd17C3d6eae725DdcE8a"
+  },
+  {
+    "name": "gGOOGL",
+    "address": "0x4e84Adaa440e6A97F04328152cC0eF8e5d4202fC"
+  },
+  {
+    "name": "gMETA",
+    "address": "0x9d2C5Cc0EA18dcacB2CDDcc1F938431c172c23F6"
+  },
+  {
+    "name": "gMSFT",
+    "address": "0xD21c392A4633f8A6F3AE350a6035D86694B3103f"
+  },
+  {
+    "name": "gTLSA",
+    "address": "0xD8B45454E87D25009c23591c3b0E56f3c2C420Fc"
+  },
+  {
+    "name": "gCNY",
+    "address": "0x239A578FBb582e3255BA5E6c26EB833DE56Caf86"
+  },
+  {
+    "name": "gGBP",
+    "address": "0x4099289ee7f5127cEB38A97E468F57cE9138F1b2"
+  },
+  {
+    "name": "gEUR",
+    "address": "0x895C0B31723D4687Ee6a530DA5DcDFEE07c0b4fb"
+  },
+  {
+    "name": "gJPY",
+    "address": "0xC0798F53dbf12213e45B415e82D8B512819d9FDD"
+  },
+  {
+    "name": "gAUD",
+    "address": "0x390866169E905fF1Dd90ff99D45ca07829f8266F"
+  },
+  {
+    "name": "gCAD",
+    "address": "0xB598037F66985DBCb8bb3ae4F58B682a6Aac6eD7"
+  },
+  {
+    "name": "gGOLD",
+    "address": "0x285f07c4dD40FF14dc846430E8875f7397E62B16"
+  },
+  {
+    "name": "gSLVR",
+    "address": "0xeC3Cd3c858661C23Cb7ea55839C3c01E97C4836E"
+  },
+  {
+    "name": "gOil",
+    "address": "0x1CA3Ca199A584b43fceF902620D2e7a02758e121"
+  },
+  {
+    "name": "Faucet",
+    "address": "0x7CfebD9a60Fe54e0553F7036565CE3AbbBd1d38F"
+  },
+  {
+    "name": "Grandbase Faucet USDC",
+    "address": "0xF733dC50FD4D0117a7d3EA0982F896E4921ae226"
+  },
+  {
+    "name": "Grandbase Faucet USDT",
+    "address": "0x39E4a478bfA7fa87b3a85A108d4e6f51AABC8a78"
+  },
+  {
+    "name": "Grandbase Faucet DAI",
+    "address": "0x472e36dC88AdA19B0d796b89034Db8B3CEd85D70"
+  },
+  {
+    "name": "BaseSwap LPs(gAMZN- Grandbase Faucet USDC)",
+    "address": "0x2cF9f447802C87e8D0F8f066783780fD6404cA91"
+  },
+  {
+    "name": "BaseSwap LPs(gAMZN- Grandbase Faucet USDT)",
+    "address": "0x12290Aa7C165180FD54EC6CD94136fC850584E33"
+  },
+  {
+    "name": "BaseSwap LPs(gGOOGL- Grandbase Faucet USDC)",
+    "address": "0x219146EcEe17dB444b53eAb34741C8bc18a5422C"
+  },
+  {
+    "name": "BaseSwap LPs(gGOOGL- Grandbase Faucet DAI)",
+    "address": "0xFEb1eC3C112E4b4044D46326a027A689a9BCd82A"
+  },
+  {
+    "name": "BaseSwap LPs(gMETA- Grandbase Faucet USDC)",
+    "address": "0x2FAa0a11205B62865CB1d9b1ac88443d1e1Fc7a1"
+  },
+  {
+    "name": "BaseSwap LPs(gMSFT- Grandbase Faucet USDC)",
+    "address": "0x6C3ec820059C68d0Dc9aB2A99B649e37Ac3A2578"
+  },
+  {
+    "name": "BaseSwap LPs(gGOLD- Grandbase Faucet USDC)",
+    "address": "0x35B62Eb5f4Ff0888817AFC95DA5969721D044E35"
+  },
+  {
+    "name": "BaseSwap LPs(gSLVR- Grandbase Faucet USDC)",
+    "address": "0x35B45383Fe0B464C2C76939a05AaBBA9EffA67F5"
+  },
+  {
+    "name": "BaseSwap LPs(gCNY- Grandbase Faucet USDC)",
+    "address": "0xa3C2cE5449c091471862880b3235D08AE6a1655b"
+  },
+  {
+    "name": "BaseSwap LPs(gGBP- Grandbase Faucet USDC)",
+    "address": "0xBa82f8296d8B6aAD17cfe280b267A59d5083809F"
+  },
+  {
+    "name": "PotionVault",
+    "address": "0x7f6e2f7D63a7521D2B08eE3a93Ad2ACFa0F9E0aC"
+  },
+  {
+    "name": "gCOIN",
+    "address": "0xea1c96024f011b972239b4688688Ce3e35CE3143"
+  },
+  {
+    "name": "gNVDA",
+    "address": "0xB80ac6D09fCD88A3ad8144147cF75d2a488f4f3D"
+  },
+  {
+    "name": "gCSPX",
+    "address": "0x88df17B262B332F3e3D0c38F2C24EBaB031E48D9"
+  },
+  {
+    "name": "gMSTR",
+    "address": "0x3e72865200bCB3d86d7631fa6556526Be3aA98AB"
+  },
+  {
+    "name": "gGLXY",
+    "address": "0x46f02b7ECd3a5D43b3214F0629F039F786709A71"
+  }
+]

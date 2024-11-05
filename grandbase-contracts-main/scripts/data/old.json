@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Grand",
+    "address": "0xd83057B3A5f46AeC89a0AFE85Bc1D4324b904010"
+  },
+  {
+    "name": "xGrand",
+    "address": "0x708BA7A8D10baC954B3f4fFFEEbf60b772aF6624"
+  },
+  {
+    "name": "MasterGrand",
+    "address": "0xBd364676C67d686F67f7412Ee079415DcaDEbEf7"
+  },
+  {
+    "name": "gAMZN",
+    "address": "0xEE41CACE97bbE028672b4Dd192390000886BfFb4"
+  },
+  {
+    "name": "gAAPL",
+    "address": "0xbB15aaC18375a0338c9474B9CF0C2b9555B1Fe4D"
+  },
+  {
+    "name": "gGOOGL",
+    "address": "0xC099F125e84fb3846a587624e08D7E986c74f77d"
+  },
+  {
+    "name": "gMETA",
+    "address": "0xB89C8B2C3B98CA63E81B7AE7Fd2aADb7c3066B68"
+  },
+  {
+    "name": "gMSFT",
+    "address": "0xd395dA9A9e7790AA2705f16129daf623519D8Bd2"
+  },
+  {
+    "name": "gTLSA",
+    "address": "0xfdDFB7750BB4Ad89F55891D1bb1d697b610d6b06"
+  },
+  {
+    "name": "gCNY",
+    "address": "0x6900872620d8E008e9A00A9b6079e4628477c905"
+  },
+  {
+    "name": "gGBP",
+    "address": "0x81efd8Cb7eE7691E3b4C5C4c0D7515Fc42A1a56c"
+  },
+  {
+    "name": "gEUR",
+    "address": "0xdf5e4034F4f1133ea9fA44D90Dcc6975bf40B956"
+  },
+  {
+    "name": "gJPY",
+    "address": "0xAC17f878D6551d58Ca78B2119d404069Cce41a24"
+  },
+  {
+    "name": "gAUD",
+    "address": "0x48285077190601538a877d998a20EB69fc9DD90D"
+  },
+  {
+    "name": "gCAD",
+    "address": "0x58ABb2FfeC4fAF0DFC8BAd23f5f7eF03B227E3B3"
+  },
+  {
+    "name": "gGOLD",
+    "address": "0x0Ce9034b48110781d815b4EB9156886A1cb5e7F5"
+  },
+  {
+    "name": "gSLVR",
+    "address": "0x72b143b8aff158178A1e24FcF1Ae505D57087Cec"
+  },
+  {
+    "name": "gOil",
+    "address": "0x7B45ABF12Abade76B61225d93B98c88B8b6C9e21"
+  },
+  {
+    "name": "Faucet",
+    "address": "0x7b64dA00c9524d472eC803d1ec422734CFAB3aD1"
+  },
+  {
+    "name": "Grandbase Faucet USDC",
+    "address": "0x99cfBd2Cd893eEfaC0A2935f7AEFA6C8F426ddF9"
+  },
+  {
+    "name": "Grandbase Faucet USDT",
+    "address": "0x345BdE310498e16F7098E1eDdA8Ae614a73724b9"
+  },
+  {
+    "name": "Grandbase Faucet DAI",
+    "address": "0x84464A3a0627fA253468AbD2843fA2e10ACDd127"
+  },
+  {
+    "name": "BaseSwap LPs(gAMZN- Grandbase Faucet USDC)",
+    "address": "0x24dB25BF30d6342E43d984CED02573Ad9fb0CE79"
+  },
+  {
+    "name": "BaseSwap LPs(gAMZN- Grandbase Faucet USDT)",
+    "address": "0xCA0CcE4834859bFC32762f76210D062f16328c69"
+  },
+  {
+    "name": "BaseSwap LPs(gGOOGL- Grandbase Faucet USDC)",
+    "address": "0xD3A054d0D0581d24741785dE2CFB8731E6f346d9"
+  },
+  {
+    "name": "BaseSwap LPs(gGOOGL- Grandbase Faucet DAI)",
+    "address": "0x69979da5ED4374d5972e6C4F9c9859C9d78d98F7"
+  },
+  {
+    "name": "BaseSwap LPs(gMETA- Grandbase Faucet USDC)",
+    "address": "0x9eDd8ee71abD4241828cdAD7A7eF97DFBC59F30d"
+  },
+  {
+    "name": "BaseSwap LPs(gMSFT- Grandbase Faucet USDC)",
+    "address": "0x74773CFFB82B30d21acEDca2a1ff0a6b8B710546"
+  },
+  {
+    "name": "BaseSwap LPs(gGOLD- Grandbase Faucet USDC)",
+    "address": "0xadC971810Ada8c0D43d40e3e18B92121231BdCbf"
+  },
+  {
+    "name": "BaseSwap LPs(gSLVR- Grandbase Faucet USDC)",
+    "address": "0xC43Cf82462fc71f2c48F9334Eab1005e6da6eAe7"
+  },
+  {
+    "name": "BaseSwap LPs(gCNY- Grandbase Faucet USDC)",
+    "address": "0x4dC366BF79aaE828D809c88e7f355d83E5f2223a"
+  },
+  {
+    "name": "BaseSwap LPs(gGBP- Grandbase Faucet USDC)",
+    "address": "0xcCeA993bA52c5c7dfed4b67637ccD2e600C353b4"
+  },
+  {
+    "name": "BaseSwap LPs(Grand- WETH)",
+    "address": "0x13a95d3e920844c0A9712e64Ae4F7eD23f0aDd65"
+  },
+  {
+    "name": "Oracle",
+    "address": "0x7E9AdBE494bc2CD20BcF24e00a28f6A209fEbe14"
+  },
+  {
+    "name": "GrandOracle",
+    "address": "0x432708E146a6A65561C254f6A9b5E86F8BC1eEf6"
+  },
+  {
+    "name": "PotionVault",
+    "address": "0x6eFDBA998c2a4631E98e6FF85B4351D621E8cb46"
+  }
+]

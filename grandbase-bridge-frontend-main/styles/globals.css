@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: 'Montserrat', sans-serif;
+}
+
+body,
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #000a17;
+  background-image: url('../pages/_assets/background.png');
+  background-position: bottom;
+  background-blend-mode: color-dodge;
+  background-size: contain;
+  --tw-bg-opacity: 0.5;
+  min-height: 100dvh;
+  background-repeat: no-repeat;
+}
+
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.blur-bg {
+  /* background: transparent; */
+  background: #8b633f3b;
+  backdrop-filter: blur(20px);
+}
+
+.wallet_button:hover {
+  opacity: 0.9;
+}
+
+.apexcharts-legend-series {
+  display: flex;
+  align-items: center;
+  gap: '2rem';
+}

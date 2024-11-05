@@ -1,0 +1,186 @@
+[
+  {
+    "name": "GrandBase",
+    "address": "0xd83057B3A5f46AeC89a0AFE85Bc1D4324b904010"
+  },
+  {
+    "name": "gCOIN",
+    "address": "0xBd364676C67d686F67f7412Ee079415DcaDEbEf7"
+  },
+  {
+    "name": "gNVDA",
+    "address": "0xcE8dfE4b12DD4FEFab079e514BF657bbE46592ad"
+  },
+  {
+    "name": "gCSPX",
+    "address": "0xEdeA0c4a60F37C3e186B269A8318Ef512E0AeF60"
+  },
+  {
+    "name": "gMSTR",
+    "address": "0xFdAD3E8b2b22077C592525B7B4CF088A9957D865"
+  },
+  {
+    "name": "gGLXY",
+    "address": "0xEE41CACE97bbE028672b4Dd192390000886BfFb4"
+  },
+  {
+    "name": "gAMZN",
+    "address": "0xbB15aaC18375a0338c9474B9CF0C2b9555B1Fe4D"
+  },
+  {
+    "name": "gAAPL",
+    "address": "0xC099F125e84fb3846a587624e08D7E986c74f77d"
+  },
+  {
+    "name": "gGOOGL",
+    "address": "0xB89C8B2C3B98CA63E81B7AE7Fd2aADb7c3066B68"
+  },
+  {
+    "name": "gMETA",
+    "address": "0xd395dA9A9e7790AA2705f16129daf623519D8Bd2"
+  },
+  {
+    "name": "gMSFT",
+    "address": "0xfdDFB7750BB4Ad89F55891D1bb1d697b610d6b06"
+  },
+  {
+    "name": "gTSLA",
+    "address": "0x6900872620d8E008e9A00A9b6079e4628477c905"
+  },
+  {
+    "name": "gCNY",
+    "address": "0x81efd8Cb7eE7691E3b4C5C4c0D7515Fc42A1a56c"
+  },
+  {
+    "name": "gGBP",
+    "address": "0xdf5e4034F4f1133ea9fA44D90Dcc6975bf40B956"
+  },
+  {
+    "name": "gEUR",
+    "address": "0xAC17f878D6551d58Ca78B2119d404069Cce41a24"
+  },
+  {
+    "name": "gJPY",
+    "address": "0x48285077190601538a877d998a20EB69fc9DD90D"
+  },
+  {
+    "name": "gAUD",
+    "address": "0x58ABb2FfeC4fAF0DFC8BAd23f5f7eF03B227E3B3"
+  },
+  {
+    "name": "gCAD",
+    "address": "0x0Ce9034b48110781d815b4EB9156886A1cb5e7F5"
+  },
+  {
+    "name": "gGOLD",
+    "address": "0x72b143b8aff158178A1e24FcF1Ae505D57087Cec"
+  },
+  {
+    "name": "gSLVR",
+    "address": "0x7B45ABF12Abade76B61225d93B98c88B8b6C9e21"
+  },
+  {
+    "name": "gOil",
+    "address": "0xF27751BD1787C63094d1E6fd0131CDB6C1C80f8E"
+  },
+  {
+    "name": "Faucet",
+    "address": "0x84bF55b328CB73caaD506906CE324E0aD19b63bd"
+  },
+  {
+    "name": "Grandbase Faucet USDC",
+    "address": "0xE6fa5bC7C562B45a9Ac1856Bf15B4E278bce99c1"
+  },
+  {
+    "name": "Grandbase Faucet USDT",
+    "address": "0xaB4219D9A7427B4eDed41aF3dCcebc66672A090c"
+  },
+  {
+    "name": "Grandbase Faucet DAI",
+    "address": "0x1C06b3cD53746230bb58C232Ac1Ec63c733eb60c"
+  },
+  {
+    "name": "gCOIN-FEED",
+    "address": "0xFECF951d555C743dd22F745C70d2310685458b57"
+  },
+  {
+    "name": "gNVDA-FEED",
+    "address": "0x7F51Ab43CAffC5f5AF795C298Bb281aA84a1749A"
+  },
+  {
+    "name": "gCSPX-FEED",
+    "address": "0x4f8BB9e69331B6854dD89Fa72a4bA303055B7ff0"
+  },
+  {
+    "name": "gMSTR-FEED",
+    "address": "0x2Aa7C8937ea69308e24Ca9482f28BE793456E77d"
+  },
+  {
+    "name": "gGLXY-FEED",
+    "address": "0x9Af2625C0004Fc3e02CE932731968D7dE288bAfb"
+  },
+  {
+    "name": "gAMZN-FEED",
+    "address": "0xbCeDd41D9e58361dCF64E46b1Dcd58d585214F39"
+  },
+  {
+    "name": "gAAPL-FEED",
+    "address": "0x512687c7Ef205789b8106b21B05E5B0A2fa30417"
+  },
+  {
+    "name": "gGOOGL-FEED",
+    "address": "0x91668d3d691a837898c829D65566fC3846c53887"
+  },
+  {
+    "name": "gMETA-FEED",
+    "address": "0x435bA06792d6199E84A366653aA75a8be82a1ECA"
+  },
+  {
+    "name": "gMSFT-FEED",
+    "address": "0xACb9e812e1d15a7beFD76b3c436f29D6e69fC2d6"
+  },
+  {
+    "name": "gTSLA-FEED",
+    "address": "0xCcf970B70F2dF0D089EF3ea69e16fa6e9a738428"
+  },
+  {
+    "name": "gCNY-FEED",
+    "address": "0x02B2f7F3ceEce544FB7bd93a7f0BEc9f9815C3ba"
+  },
+  {
+    "name": "gGBP-FEED",
+    "address": "0xb86576f66f1646bDcE25fef8e76C282d71BaB5c7"
+  },
+  {
+    "name": "gEUR-FEED",
+    "address": "0x554B689a32c76DE848aE5c5A111991f47C3A9C75"
+  },
+  {
+    "name": "gJPY-FEED",
+    "address": "0x996E69289a2B9de56c0D39bF808861fdB40Cc1F0"
+  },
+  {
+    "name": "gAUD-FEED",
+    "address": "0x36054458E3d81fCB0CfD83b0EC4bD2fD6BcC2fEb"
+  },
+  {
+    "name": "gCAD-FEED",
+    "address": "0x4547C19c808Feed0Cac2f1ABE109bac7812c6D40"
+  },
+  {
+    "name": "gGOLD-FEED",
+    "address": "0xd926Ac9aA8B5fe916C834841dA4b0c03531b5a26"
+  },
+  {
+    "name": "gSLVR-FEED",
+    "address": "0x1Bd3C5bf20C3CaF0E8b5de5815052B276086dEDB"
+  },
+  {
+    "name": "gOil-FEED",
+    "address": "0x1C02A8DF8Fe3298ea5aFF21244e74bc16cB5a91f"
+  },
+  {
+    "name": "PotionVault",
+    "address": "0xDcca5E53526F324b9232ebb680001cE25d66661c"
+  }
+]

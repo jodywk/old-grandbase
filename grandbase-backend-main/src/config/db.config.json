@@ -1,0 +1,14 @@
+{
+  "HOST": "localhost",
+  "USER": "postgres",
+  "PASSWORD": "granduser",
+  "PORT": 5432,
+  "DB": "grandbase",
+  "dialect": "postgres",
+  "pool": {
+    "max": 5,
+    "min": 0,
+    "acquire": 30000,
+    "idle": 10000
+  }
+}
